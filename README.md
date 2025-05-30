@@ -31,27 +31,7 @@ Developed by Konami, *Contra* throws you into the boots of elite commandos Bill 
 
 ---
 
-## 💾 Looking for a Physical Copy?
 
-If you're interested in owning a physical copy of *Contra* or its sequels, here are some options:
-
-### [NES SUPER C (CONTRA) - Konami American NES]()
-
-*JP¥15,000*
-
-### [PlayStation North American Version - Contra Anniversary Collection]()
-
-#### Includes Multiple Titles
-
-*JP¥7,759*
-
-### [Contra III - SNES North American Version (Used)]()
-
-*JP¥32,800*
-
-These editions offer various experiences, from the original NES gameplay to collections that include multiple titles in the series.
-
----
 
 ## 🧠 Final Thoughts
 
