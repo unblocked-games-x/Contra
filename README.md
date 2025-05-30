@@ -2,7 +2,7 @@
 
 
 <h2>
-  <a href="https://retrogames.my" style="color: blue;">If you’re a fan of old-school action or just curious about what made 8-bit gaming so legendary, **Contra (USA)** for the NES is a must-play. Available to play directly in your browser , this 1987 classic delivers a no-nonsense, adrenaline-fueled experience that defined the run-and-gun genre.</a>
+  <a href="https://retrogames.my" style="color: blue;">If you’re a fan of old-school action or just curious about what made 8-bit gaming so legendary, Contra (USA) for the NES is a must-play. Available to play directly in your browser , this 1987 classic delivers a no-nonsense, adrenaline-fueled experience that defined the run-and-gun genre.</a>
 </h2>
 
 
